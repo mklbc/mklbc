@@ -45,7 +45,7 @@ I enjoy building projects in **Machine Learning and Full Stack Development**.
 ---
 
 ## 🧩 Current Goals
-- Improving my Machine Learning & Computer Vision skills  
+- Improving my Machine Learning skills  
 - Building full-stack applications  
 - Strengthening backend & frontend fundamentals  
 
@@ -53,5 +53,5 @@ I enjoy building projects in **Machine Learning and Full Stack Development**.
 
 ## 📫 Contact
 **Email:** memoklbc@icloud.com  
-**GitHub:** github.com/mklbc
+**Linkedin:** https://www.linkedin.com/in/mehmet-kul%C3%BCbecio%C4%9Flu-a0801b332/
 
