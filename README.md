@@ -15,7 +15,8 @@ I enjoy building projects in **Machine Learning and Full Stack Development**.
 - OpenCV  
 
 ### 💻 Backend & Frontend (Beginner–Intermediate)
-- C#    
+- C#
+- Python
 - HTML / CSS / JavaScript  
 
 ---
