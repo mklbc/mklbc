@@ -3,7 +3,7 @@
 ## 🎓 About Me
 I'm a Software Engineer graduated from Ukraine.  
 Currently working at **Kuzu Grup** as an **IT Specialist**.  
-I enjoy building projects in **Machine Learning, Computer Vision, and Full Stack Development**.
+I enjoy building projects in **Machine Learning and Full Stack Development**.
 
 ---
 
