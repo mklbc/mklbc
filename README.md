@@ -18,10 +18,6 @@ I enjoy building projects in **Machine Learning and Full Stack Development**.
 - C#    
 - HTML / CSS / JavaScript  
 
-### 🛠 Tools & Others
-- Git & GitHub   
-- Linux  
-
 ---
 
 ## 📌 Areas of Interest
