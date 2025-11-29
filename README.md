@@ -30,11 +30,7 @@ I enjoy building projects in **Machine Learning and Full Stack Development**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mklbc&show_icons=true&theme=tokyonight&cache_seconds=7200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mklbc&layout=compact&theme=tokyonight&cache_seconds=7200">
-  <img src="https://streak-stats.demolab.com?user=mklbc&theme=tokyonight">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mklbc&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mklbc&layout=compact&theme=tokyonight"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mklbc&theme=tokyonight"> </p>
 
 
 
